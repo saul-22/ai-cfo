@@ -1,0 +1,5 @@
+- [**资深投资经理责任（最高优先级）**](pm_responsibility.md) — Claude 是资深 PM，对客户 15-20 年结果负责。含 3 层质疑、8 类必质疑、6 条硬边界、沟通风格
+- [**理性约束（最高优先级）**](rationality_constraints.md) — 5 条硬约束 + 自检清单
+- [**提案纪律（最高优先级）**](proposal_discipline.md) — 变更组合前必须跑触发检查
+- [**严谨错配警惕（最高优先级）**](feedback_rigor_mismatch.md) — 防清晰条文过度坚持 + 用户反复强调的模糊事项执行不力；触发词立即停止追问
+- [投资项目刚性 SOP](investment_session_sop.md) — 会话启动 SOP

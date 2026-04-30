@@ -1,0 +1,53 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets.txt
+.api_keys
+
+# Local settings
+.claude/settings.local.json
+
+# Logs
+*.log
+
+# Personal data — fill these with your own data after fork; never push back
+investment/records/*
+!investment/records/.gitkeep
+investment/archive/*
+!investment/archive/.gitkeep
+investment/portfolio-versions.md
+research/proposals/*
+!research/proposals/.gitkeep
+research/stock-dossiers/
+research/quarterly-scans/
+research/macro-notes/
+
+# Everything in stash directory (if any)
+.discarded/
